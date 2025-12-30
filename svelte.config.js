@@ -1,17 +1,12 @@
 import adapter from '@sveltejs/adapter-static';
 import { mdsvex } from 'mdsvex';
+import mdsvexConfig from './mdsvex.config.js';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	extensions: ['.svelte', '.md', '.svx'],
+	extensions: ['.svelte', ...mdsvexConfig.extensions],
 	preprocess: [
-		mdsvex({
-			extensions: ['.md', '.svx'],
-			layout: {
-				publications: 'src/lib/layouts/PublicationLayout.svelte',
-				_: 'src/lib/layouts/DefaultLayout.svelte'
-			}
-		})
+		mdsvex(mdsvexConfig)
 	],
 	kit: {
 		adapter: adapter({

@@ -1,0 +1,109 @@
+# Sveltia CMS Configuration
+# Converted from .pages.yml for static deployment with GitHub OAuth
+
+backend:
+  name: github
+  # TODO: Verify your GitHub username and repository name are correct
+  repo: chandanmahapatra/baba-site-test
+  branch: main
+
+# Enable editorial workflow (creates PRs instead of direct commits)
+# This allows for review and approval before changes go live
+publish_mode: editorial_workflow
+
+# Enable local backend for development (no GitHub auth needed)
+local_backend: true
+
+# Media configuration
+media_folder: static/uploads
+public_folder: /uploads
+
+# Site URL for preview (adjust BASE_PATH as needed)
+site_url: https://symmetrical-adventure-kzjrw8n.pages.github.io/UCD-website-test
+
+# Collections converted from .pages.yml
+collections:
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: content/posts
+    create: true
+    slug: "{{slug}}"
+    format: frontmatter
+    extension: md
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+        hint: "Post title displayed in listings and page header"
+
+      - label: Description
+        name: description
+        widget: text
+        required: false
+        hint: "Brief summary for listings and meta description"
+
+      - label: Date
+        name: date
+        widget: datetime
+        required: true
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        default: "{{now}}"
+        hint: "Publication date"
+
+      - label: Draft
+        name: draft
+        widget: boolean
+        required: false
+        default: false
+        hint: "Set to true to hide from public site"
+
+      - label: Body
+        name: body
+        widget: markdown
+        required: true
+        hint: "Main content in Markdown format"
+
+    # View configuration
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+      - label: Published
+        field: draft
+        pattern: false
+
+    sortable_fields: ["title", "date", "draft"]
+
+    summary: "{{title}} - {{date}}"
+
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: content/pages
+    create: true
+    slug: "{{slug}}"
+    format: frontmatter
+    extension: md
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+        hint: "Page title"
+
+      - label: Description
+        name: description
+        widget: text
+        required: false
+        hint: "Meta description for SEO"
+
+      - label: Body
+        name: body
+        widget: markdown
+        required: true
+        hint: "Main content in Markdown format"
+
+    summary: "{{title}}"

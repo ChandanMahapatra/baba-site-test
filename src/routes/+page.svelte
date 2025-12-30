@@ -212,22 +212,7 @@
 		margin-bottom: var(--space-2xl);
 	}
 
-	.list {
-		list-style: none; /* Default list for Now */
-		display: flex;
-		flex-direction: column;
-		gap: var(--space-sm);
-	}
 
-	.list li {
-		line-height: var(--line-relaxed);
-		color: var(--color-text-muted);
-	}
-
-	.list strong {
-		color: var(--color-text);
-		font-weight: 500;
-	}
 
 	.links {
 		display: flex;
