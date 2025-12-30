@@ -12,7 +12,7 @@ const config = {
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
-			fallback: '200.html', // CRITICAL: Enables client-side routing on GitHub Pages
+			fallback: '404.html', // CRITICAL: Enables client-side routing on GitHub Pages
 			strict: false // CRITICAL: Prevents build failures from unresolved routes
 		}),
 		paths: {
