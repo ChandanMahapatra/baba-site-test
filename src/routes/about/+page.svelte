@@ -7,7 +7,7 @@
 </svelte:head>
 
 <main class="page">
-	<div class="container">
+	<div class="container container--wide">
 		<nav class="nav">
 			<a href="{base}/" class="home-link">← Home</a>
 		</nav>
@@ -16,7 +16,7 @@
 			<h1>About</h1>
 		</header>
 
-		<section class="section">
+		<section class="section section--grid">
 			<span class="section-marker">Biography</span>
 			<div class="text-block">
 				<p>
@@ -40,7 +40,7 @@
 			</div>
 		</section>
 
-		<section class="section">
+		<section class="section section--grid">
 			<span class="section-marker">Education</span>
 			<ul class="tight-list">
 				<li>
@@ -58,7 +58,7 @@
 			</ul>
 		</section>
 
-		<section class="section">
+		<section class="section section--grid">
 			<span class="section-marker">Recognition</span>
 			<ul class="dashed-list">
 				<li>President, National HRD Network, Bangalore</li>
@@ -99,7 +99,6 @@
 
 	.section {
 		margin-bottom: var(--space-2xl);
-		max-width: 38rem;
 	}
 
 	.text-block p {

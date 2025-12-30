@@ -11,7 +11,7 @@
 </svelte:head>
 
 <main class="page">
-	<div class="container">
+	<div class="container container--wide">
 		<!-- Header / Identity -->
 		<header class="header">
 			<img src="{base}/gopal-mahapatra.jpg" alt="Prof. Gopal Mahapatra" class="header__photo" />
@@ -42,7 +42,7 @@
 		</nav>
 
 		<!-- Now -->
-		<section class="section">
+		<section class="section section--grid">
 			<span class="section-marker">Now</span>
 			<ul class="dashed-list">
 				<li>
@@ -66,7 +66,7 @@
 		</section>
 
 		<!-- Previously - UPDATED to dashed-list -->
-		<section class="section">
+		<section class="section section--grid">
 			<span class="section-marker">Previously</span>
 			<ul class="dashed-list">
 				<li>Chairman, PGPEM (Weekend MBA for working professionals)</li>
@@ -89,7 +89,7 @@
 		</section>
 
 		<!-- Selected Work - UPDATED to dashed-list structure -->
-		<section class="section">
+		<section class="section section--grid">
 			<span class="section-marker">Selected Work</span>
 			<ul class="dashed-list">
 				<li>
@@ -118,7 +118,7 @@
 		</section>
 
 		<!-- Connect -->
-		<section class="section">
+		<section class="section section--grid">
 			<span class="section-marker">Connect</span>
 			<div class="links">
 				<a href="mailto:gopal.mahapatra@iimb.ac.in">Email →</a>

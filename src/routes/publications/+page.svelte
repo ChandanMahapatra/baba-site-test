@@ -85,7 +85,7 @@
 </svelte:head>
 
 <main class="page">
-	<div class="container">
+	<div class="container container--wide">
 		<nav class="nav">
 			<a href="{base}/" class="home-link">← Home</a>
 		</nav>
@@ -95,7 +95,7 @@
 		</header>
 
 		{#each publications as section}
-			<section class="section">
+			<section class="section section--grid">
 				<span class="section-marker">{section.title}</span>
 				<ul class="dashed-list">
 					{#each section.items as item}
@@ -135,11 +135,9 @@
 
 	.header {
 		margin-bottom: var(--space-2xl);
-		max-width: 32rem;
 	}
 
 	.section {
 		margin-bottom: var(--space-2xl);
-		max-width: 42rem;
 	}
 </style>
