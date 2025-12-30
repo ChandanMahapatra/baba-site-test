@@ -22,20 +22,22 @@
 				<p>
 					Gopal Mahapatra brings over three and a half decades of rich and varied experience
 					traversing corporate, consulting, and academic domains. He has held senior management
-					roles equal to C-Suite levels, leading the HRM, Talent Development & OD, Management
-					Services, and Corporate Communication Departments. He has worked with MNCs (Oracle, BPL)
-					and large private and public sector organizations (Gujarat Gas, INDAL, BEL).
+					roles, leading HRM, Talent Development & OD, Management
+					Services, and Corporate Communication functions. His corporate tenure includes work with
+					MNCs like Oracle and BPL, as well as large private and public sector organizations such
+					as Gujarat Gas, INDAL, and BEL.
 				</p>
 				<p>
-					In his corporate and consulting career (mafoi, TVRLS), he has institutionalized multiple
-					processes and built-in focus for vision, culture, talent, values, and growth for many of
-					these organizations. He is acknowledged in business and academic forums as an HR Thought
-					Leader, Leadership Coach, and a successful Organizational Transformation Practitioner.
+					In his consulting career, notably with TVRLS, he has institutionalized critical
+					processes to foster vision, culture, talent, values, and growth. He is recognized in
+					business and academic forums as an HR Thought Leader, Leadership Coach, and a successful
+					Organizational Transformation Practitioner.
 				</p>
 				<p>
-					Since August 2018, working as a Professor of Practice, OB & HRM at IIM Bengaluru, he has
-					been teaching courses on Leadership in Digital Era, Managing People and Performance in
-					Organisation, Managing Career Success and Transitions, Executive Coaching and Mentoring.
+					Since August 2018, he has served as a Professor of Practice in OB & HRM at IIM
+					Bengaluru. His teaching portfolio includes Leadership in the Digital Era, Managing People
+					and Performance in Organizations, Managing Career Success and Transitions, and Executive
+					Coaching and Mentoring.
 				</p>
 			</div>
 		</section>

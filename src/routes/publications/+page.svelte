@@ -6,16 +6,16 @@
 			title: 'Books & Edited Volumes',
 			items: [
 				{
-					text: 'Springer Business Cases in Organisation Behaviour and HRM (Springer Singapore, 2023)',
-					url: 'https://link.springer.com/book/10.1007/978-981-19-0822-4'
+					text: 'Business Cases in Organisation Behaviour and HRM, Perspectives from India (Springer, 2023)',
+					url: 'https://link.springer.com/book/10.1007/978-981-99-2031-0'
 				},
 				{
-					text: '360 Degree Feedback and Performance Management System, Vol. II (Excel Books, 2002)',
-					url: null
+					text: '360 Degree Feedback and Performance Management System (2012)',
+					url: 'https://www.amazon.com/Degree-Feedback-Performance-Management-System-ebook/dp/B00AQKH6QA#averageCustomerReviewsAnchor'
 				},
 				{
-					text: 'HRD, OD and Institution Building - Essays in Memory of Udai Pareek (Sage, 2016/2024)',
-					url: 'https://us.sagepub.com/en-us/nam/hrd-od-and-institution-building/book250596'
+					text: 'HRD, OD and Institution Building: Essays in Memory of Udai Pareek',
+					url: 'https://www.amazon.com/HRD-OD-Institution-Building-Essays-ebook/dp/B0FGPRXMTW'
 				},
 				{
 					text: 'Organization Development: Accelerating Learning and Transformation (Contributor, Sage, 2011)',
@@ -27,28 +27,24 @@
 			title: 'Selected Journal Articles',
 			items: [
 				{
-					text: 'Talent development in a changing world of work — IIMB Management Review (2022)',
-					url: 'https://www.sciencedirect.com/science/article/pii/S097038962200002X'
+					text: 'Talent development in a changing world (IIMB Review, 2022)',
+					url: 'https://doi.org/10.1016/j.iimb.2022.03.002'
 				},
 				{
-					text: 'Appraising the revamped performance management system in Indian IT multinational enterprises — Human Resource Management (2021)',
-					url: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/hrm.22087'
+					text: "Appraising the revamped performance management system in Indian IT multinational enterprises: The employees' perspective — Human Resource Management (2021)",
+					url: 'https://doi.org/10.1002/hrm.22061'
 				},
 				{
-					text: 'Gen Z: An emerging phenomenon — Sage NHRD Network Journal (2022)',
-					url: 'https://journals.sagepub.com/doi/abs/10.1177/26314541221085002'
+					text: 'Gen Z: An Emerging Phenomenon — Sage NHRD Network Journal (2022)',
+					url: 'https://doi.org/10.1177/26314541221077137'
 				},
 				{
-					text: 'Leadership in Crisis: Lessons from India — Sage NHRD Network Journal (2021)',
-					url: 'https://journals.sagepub.com/doi/10.1177/2631454120974633'
+					text: 'Leadership in Crisis: Lessons from India (NHRD Journal, 2021)',
+					url: 'https://doi.org/10.1177/26314541211043051'
 				},
 				{
-					text: 'Future of Mid-Career Education in a Transforming Work Context — South Asian Journal of Management (2021)',
-					url: null
-				},
-				{
-					text: 'Leadership Development in a Multinational-An Indian case — Vikalpa (2011)',
-					url: 'https://journals.sagepub.com/doi/10.1177/0256090920110201'
+					text: 'Leadership Development in Organizations in India: The Why and How of It — Vikalpa (2011)',
+					url: 'https://doi.org/10.1177/0256090920110305'
 				}
 			]
 		},
@@ -56,20 +52,20 @@
 			title: 'Case Studies',
 			items: [
 				{
+					text: 'Growth and Transformation of Gujarat Gas Limited—An OD and HRD Perspective (Springer, 2023)',
+					url: 'https://www.springerprofessional.de/en/growth-and-transformation-of-gujarat-gas-limited-an-od-and-hrd-p/26511062'
+				},
+				{
+					text: 'Start-Up to Scale-Up: The Changing Entrepreneurs’ Competencies (Springer, 2023)',
+					url: 'https://www.springerprofessional.de/en/start-up-to-scale-up-the-changing-entrepreneurs-competencies/26511074'
+				},
+				{
+					text: 'Career at Crossroads: Passion or Profession? (IIMB HBR, 2021-22)',
+					url: 'https://store.hbr.org/product/career-at-crossroads-passion-or-profession-a/IMB941'
+				},
+				{
 					text: 'Devita Saraf and VU from the Top (HBS Case, 2024-25)',
 					url: null
-				},
-				{
-					text: 'Growth and Transformation of Gujarat Gas Limited - An OD & HRD Perspective (Springer, 2023)',
-					url: 'https://link.springer.com/chapter/10.1007/978-981-19-0822-4_7'
-				},
-				{
-					text: 'Start up to Scale Up - The Changing Entrepreneurs Competencies (Springer, 2023)',
-					url: 'https://link.springer.com/chapter/10.1007/978-981-19-0822-4_12'
-				},
-				{
-					text: 'Career at Crossroads: Passion or Profession (IIMB HBSC Publishing, 2021-22)',
-					url: 'https://www.hbsp.harvard.edu/'
 				},
 				{
 					text: 'HR Facilitator at IOCL: Reviving Human Touch (IIMB HBSC Publishing, 2021-22)',

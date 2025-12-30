@@ -65,6 +65,23 @@
 			</ul>
 		</section>
 
+		<!-- Featured Course -->
+		<section class="section featured-course">
+			<span class="section-marker">Featured Course</span>
+			<div class="featured-card">
+				<h3 class="featured-card__title">
+					<a
+						href="https://www.edx.org/learn/business-management/indian-institute-of-management-bangalore-leading-self-and-others"
+						target="_blank">Leading Self and Others</a
+					>
+				</h3>
+				<p class="featured-card__description">
+					A comprehensive leadership course on edX, designed to help individuals develop the mindset
+					and skills needed to lead effectively in diverse organizational contexts.
+				</p>
+			</div>
+		</section>
+
 		<!-- Previously - UPDATED to dashed-list -->
 		<section class="section">
 			<span class="section-marker">Previously</span>
@@ -93,25 +110,25 @@
 			<span class="section-marker">Selected Work</span>
 			<ul class="dashed-list">
 				<li>
-					<a href="https://link.springer.com/book/10.1007/978-981-19-0822-4" target="_blank"
-						>Springer Business Cases in OB & HRM (2023) →</a
+					<a href="https://link.springer.com/book/10.1007/978-981-99-2031-0" target="_blank"
+						>Business Cases in Organisation Behaviour and HRM (2023)</a
 					>
 				</li>
 				<li>
-					<a href="{base}/publications"
-						>360 Degree Feedback and Performance Management System →</a
+					<a href="https://www.amazon.com/Degree-Feedback-Performance-Management-System-ebook/dp/B00AQKH6QA#averageCustomerReviewsAnchor" target="_blank"
+						>360 Degree Feedback and Performance Management System (2012)</a
 					>
 				</li>
-				<li><a href="{base}/publications">HRD, OD and Institution Building (Sage) →</a></li>
+				<li><a href="https://store.hbr.org/product/career-at-crossroads-passion-or-profession-a/IMB941" target="_blank">Career at Crossroads: Passion or Profession? (IIMB HBR, 2021-22)</a></li>
 				<li>
 					<a
-						href="https://www.sciencedirect.com/science/article/pii/S097038962200002X"
-						target="_blank">"Talent development in a changing world" (IIMB Review) →</a
+						href="https://doi.org/10.1016/j.iimb.2022.03.002"
+						target="_blank">Talent development in a changing world (IIMB Review, 2022)</a
 					>
 				</li>
 				<li>
-					<a href="https://journals.sagepub.com/doi/10.1177/2631454120974633" target="_blank"
-						>"Leadership in Crisis: Lessons from India" (NHRD Journal) →</a
+					<a href="https://doi.org/10.1177/26314541211043051" target="_blank"
+						>Leadership in Crisis: Lessons from India (NHRD Journal, 2021)</a
 					>
 				</li>
 			</ul>
@@ -121,15 +138,15 @@
 		<section class="section">
 			<span class="section-marker">Connect</span>
 			<div class="links">
-				<a href="mailto:gopal.mahapatra@iimb.ac.in">Email →</a>
+				<a href="mailto:gopal.mahapatra@iimb.ac.in">Email</a>
 				<a
 					href="https://www.iimb.ac.in/sites/default/files/2023-09/Prof.Gopal-Mahapatra-2023.pdf"
-					target="_blank">CV (PDF) →</a
+					target="_blank">CV (PDF)</a
 				>
 				<a href="https://www.iimb.ac.in/user/162/gopal-mahapatra" target="_blank"
-					>IIMB Faculty Page →</a
+					>IIMB Faculty Page</a
 				>
-				<a href="https://in.linkedin.com/in/prof-gopal-pr-mahapatra-9011961" target="_blank">LinkedIn →</a>
+				<a href="https://in.linkedin.com/in/prof-gopal-pr-mahapatra-9011961" target="_blank">LinkedIn</a>
 			</div>
 		</section>
 	</div>
@@ -219,6 +236,26 @@
 		flex-direction: column;
 		gap: var(--space-sm);
 		align-items: flex-start;
+	}
+
+	/* Featured Course */
+	.featured-card {
+		background-color: var(--color-bg-alt);
+		padding: var(--space-lg);
+		border-left: 2px solid var(--color-text);
+		margin-top: var(--space-sm);
+	}
+
+	.featured-card__title {
+		font-size: var(--text-lg);
+		margin-bottom: var(--space-xs);
+	}
+
+	.featured-card__description {
+		font-size: var(--text-base);
+		color: var(--color-text-muted);
+		line-height: var(--line-normal);
+		max-width: 32rem;
 	}
 
 	@media (max-width: 600px) {

@@ -84,5 +84,6 @@
 
 	.tight-list li {
 		margin-bottom: var(--space-sm);
+		line-height: 1.5;
 	}
 </style>
