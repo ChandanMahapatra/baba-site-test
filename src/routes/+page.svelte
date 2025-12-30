@@ -129,7 +129,7 @@
 				<a href="https://www.iimb.ac.in/user/162/gopal-mahapatra" target="_blank"
 					>IIMB Faculty Page →</a
 				>
-				<a href="https://www.linkedin.com/in/gopal-mahapatra" target="_blank">LinkedIn →</a>
+				<a href="https://in.linkedin.com/in/prof-gopal-pr-mahapatra-9011961" target="_blank">LinkedIn →</a>
 			</div>
 		</section>
 	</div>
@@ -137,7 +137,7 @@
 
 <style>
 	.page {
-		padding: var(--space-xl) 0 var(--space-3xl);
+		padding: var(--space-xl) 0 var(--space-xl);
 	}
 
 	/* Header */

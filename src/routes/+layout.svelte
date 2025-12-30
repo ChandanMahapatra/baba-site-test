@@ -29,7 +29,6 @@
 	}
 
 	.global-footer {
-		margin-top: var(--space-4xl);
 		padding: var(--space-xl) 0;
 		border-top: 1px solid var(--color-border);
 		font-size: var(--text-xs);

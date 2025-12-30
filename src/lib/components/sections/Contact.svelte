@@ -13,7 +13,7 @@
 			</a>
 
 			<a
-				href="https://www.linkedin.com/in/gopal-mahapatra"
+				href="https://in.linkedin.com/in/prof-gopal-pr-mahapatra-9011961"
 				target="_blank"
 				rel="noopener"
 				class="contact__card"

@@ -13,7 +13,7 @@
 				<h4 class="footer__subtitle">Connect</h4>
 				<ul class="footer__links">
 					<li><a href="mailto:gopal.mahapatra@iimb.ac.in">Email</a></li>
-					<li><a href="https://www.linkedin.com/in/gopal-mahapatra" target="_blank">LinkedIn</a></li>
+					<li><a href="https://in.linkedin.com/in/prof-gopal-pr-mahapatra-9011961" target="_blank">LinkedIn</a></li>
 					<li>
 						<a
 							href="https://www.iimb.ac.in/sites/default/files/2023-09/Prof.Gopal-Mahapatra-2023.pdf"
