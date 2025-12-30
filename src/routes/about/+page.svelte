@@ -89,7 +89,6 @@
 	}
 
 	.home-link:hover {
-		color: var(--color-text);
 		text-decoration: underline;
 	}
 
