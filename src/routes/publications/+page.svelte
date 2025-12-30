@@ -129,6 +129,7 @@
 	}
 
 	.home-link:hover {
+		color: #000;
 		text-decoration: underline;
 	}
 
