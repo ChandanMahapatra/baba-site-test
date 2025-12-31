@@ -181,12 +181,14 @@
 		font-size: var(--text-3xl);
 		font-weight: 500;
 		margin-bottom: var(--space-xs);
+		letter-spacing: -1px;
 	}
 
 	.header__title {
 		font-size: var(--text-base);
 		color: var(--color-text-muted);
 		margin-bottom: var(--space-xs);
+		letter-spacing: -0.64px;
 	}
 
 	.header__institution {
@@ -196,9 +198,11 @@
 
 	.about {
 		font-size: var(--text-lg);
-		line-height: 1.5;
+		line-height: 135%;
 		color: var(--color-text-muted);
 		max-width: 32rem;
+		letter-spacing: -0.2px;
+		font-style: italic;
 	}
 
 	.nav {
@@ -254,7 +258,7 @@
 	.featured-card__description {
 		font-size: var(--text-base);
 		color: var(--color-text-muted);
-		line-height: var(--line-normal);
+		line-height: 135%;
 		max-width: 32rem;
 	}
 
