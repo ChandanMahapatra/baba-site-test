@@ -188,7 +188,7 @@
 		font-size: var(--text-base);
 		color: var(--color-text-muted);
 		margin-bottom: var(--space-xs);
-		letter-spacing: -0.64px;
+		letter-spacing: -0.2px;
 	}
 
 	.header__institution {
