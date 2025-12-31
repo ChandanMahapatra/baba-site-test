@@ -181,7 +181,7 @@
 		font-size: var(--text-3xl);
 		font-weight: 500;
 		margin-bottom: var(--space-xs);
-		letter-spacing: -1px;
+		letter-spacing: -0.2px;
 	}
 
 	.header__title {
@@ -201,7 +201,7 @@
 		line-height: 135%;
 		color: var(--color-text-muted);
 		max-width: 32rem;
-		letter-spacing: -0.2px;
+		letter-spacing: -0.1px;
 		font-style: italic;
 	}
 
