@@ -6,7 +6,7 @@
 	<title>Gopal Mahapatra</title>
 	<meta
 		name="description"
-		content="Professor of Practice in OB & HRM at IIM Bangalore. HR Thought Leader, Leadership Coach."
+		content="Adjunct Professor at IIM Bangalore. Leadership and management advisor focused on institution building and executive coaching."
 	/>
 </svelte:head>
 
@@ -17,7 +17,7 @@
 			<img src="{base}/gopal-mahapatra.jpg" alt="Prof. Gopal Mahapatra" class="header__photo" />
 			<div class="header__text">
 				<h1 class="header__name">Gopal Mahapatra</h1>
-				<p class="header__title">Professor of Practice, OB & HRM</p>
+				<p class="header__title">Adjunct Professor</p>
 				<p class="header__institution">
 					<a href="https://www.iimb.ac.in/" target="_blank">Indian Institute of Management Bangalore</a
 					>
@@ -28,9 +28,9 @@
 		<!-- About -->
 		<section class="section">
 			<p class="about">
-				HR Thought Leader, Leadership Coach, and Organizational Transformation Practitioner with
-				over three and a half decades of experience across corporate, consulting, and academic
-				domains.
+				Leadership and management advisor focused on institution building and executive coaching,
+				drawing on four decades of experience across corporate leadership, consulting, and
+				academia.
 			</p>
 		</section>
 
@@ -54,12 +54,6 @@
 				<li>
 					Editor, <a href="https://journals.sagepub.com/home/nhr" target="_blank"
 						>Sage NHRDN Journal</a
-					>
-				</li>
-				<li>
-					Founding Associate Editor, <a
-						href="https://journals.sagepub.com/home/hrm"
-						target="_blank">South Asian Journal of HRM</a
 					>
 				</li>
 			</ul>
@@ -90,6 +84,12 @@
 				<li>
 					President, <a href="https://www.nationalhrd.org/" target="_blank"
 						>National HRD Network, Bangalore</a
+					>
+				</li>
+				<li>
+					Founding Associate Editor, <a
+						href="https://journals.sagepub.com/home/hrm"
+						target="_blank">South Asian Journal of HRM</a
 					>
 				</li>
 				<li>
