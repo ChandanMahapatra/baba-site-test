@@ -47,15 +47,20 @@
 			<ul class="dashed-list">
 				<li>
 					Teaching <strong>Leadership in Digital Era</strong>,
-					<strong>Managing People and Performance</strong>, and
+					<strong>Managing Career Success and Transitions</strong>, and
 					<strong>Executive Coaching</strong> at
 					<a href="https://www.iimb.ac.in/" target="_blank">IIM Bangalore</a>
 				</li>
 				<li>
-					Editor, <a href="https://journals.sagepub.com/home/nhr" target="_blank"
+					Associate Editor, <a href="https://journals.sagepub.com/home/nhr" target="_blank"
 						>Sage NHRDN Journal</a
 					>
 				</li>
+				<li>
+					Independent Director, PGVCL<br />
+					<em>an Electricity Distribution Services Company of Government of Gujarat</em>
+				</li>
+				<li>Academic Council Member (Invited), PDEU, Gandhinagar, Gujarat</li>
 			</ul>
 		</section>
 
