@@ -17,7 +17,7 @@
 			<img src="{base}/gopal-mahapatra.jpg" alt="Prof. Gopal Mahapatra" class="header__photo" />
 			<div class="header__text">
 				<h1 class="header__name">Gopal Mahapatra</h1>
-				<p class="header__title">Adjunct Professor</p>
+				<p class="header__title">Adjunct Professor (OB &amp; HRM)</p>
 				<p class="header__institution">
 					<a href="https://www.iimb.ac.in/" target="_blank">Indian Institute of Management Bangalore</a
 					>
@@ -73,6 +73,7 @@
 						href="https://www.edx.org/learn/business-management/indian-institute-of-management-bangalore-leading-self-and-others"
 						target="_blank">Leading Self and Others</a
 					>
+					(MOOCs)
 				</h3>
 				<p class="featured-card__description">
 					A comprehensive leadership course on edX, designed to help individuals develop the mindset
