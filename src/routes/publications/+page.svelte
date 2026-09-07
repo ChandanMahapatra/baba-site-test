@@ -92,7 +92,7 @@
 
 		{#each publications as section}
 			<section class="section">
-				<span class="section-marker">{section.title}</span>
+				<h2 class="section-marker">{section.title}</h2>
 				<ul class="dashed-list">
 					{#each section.items as item}
 						<li>

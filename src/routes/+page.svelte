@@ -43,7 +43,7 @@
 
 		<!-- Now -->
 		<section class="section">
-			<span class="section-marker">Now</span>
+			<h2 class="section-marker">Now</h2>
 			<ul class="dashed-list">
 				<li>
 					Teaching <strong>Leadership in Digital Era</strong>,
@@ -66,7 +66,7 @@
 
 		<!-- Featured Course -->
 		<section class="section featured-course">
-			<span class="section-marker">Featured Course</span>
+			<h2 class="section-marker">Featured Course</h2>
 			<div class="featured-card">
 				<h3 class="featured-card__title">
 					<a
@@ -84,7 +84,7 @@
 
 		<!-- Previously - UPDATED to dashed-list -->
 		<section class="section">
-			<span class="section-marker">Previously</span>
+			<h2 class="section-marker">Previously</h2>
 			<ul class="dashed-list">
 				<li>Chairman, PGPEM (Weekend MBA for working professionals)</li>
 				<li>
@@ -113,7 +113,7 @@
 
 		<!-- Selected Work - UPDATED to dashed-list structure -->
 		<section class="section">
-			<span class="section-marker">Selected Work</span>
+			<h2 class="section-marker">Selected Work</h2>
 			<ul class="dashed-list">
 				<li>
 					<a href="https://link.springer.com/book/10.1007/978-981-99-2031-0" target="_blank"
@@ -142,7 +142,7 @@
 
 		<!-- Connect -->
 		<section class="section">
-			<span class="section-marker">Connect</span>
+			<h2 class="section-marker">Connect</h2>
 			<div class="links">
 				<a href="mailto:gopal.mahapatra@iimb.ac.in">Email</a>
 				<a

@@ -38,7 +38,7 @@
 
 	--color-text: #2c2c2c;
 	--color-text-muted: #5c5c5c;
-	--color-text-subtle: #8c8c8c;
+	--color-text-subtle: #707070;
 
 	--color-accent: #2c2c2c;
 	/* Simple black for links */
@@ -66,7 +66,7 @@
 
 		--color-text: #e8e6e3;
 		--color-text-muted: #a8a6a3;
-		--color-text-subtle: #787673;
+		--color-text-subtle: #8c8a87;
 
 		--color-accent: #e8e6e3;
 		--color-accent-hover: #ffffff;

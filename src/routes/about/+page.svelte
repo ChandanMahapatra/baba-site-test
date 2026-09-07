@@ -17,7 +17,7 @@
 		</header>
 
 		<section class="section">
-			<span class="section-marker">Biography</span>
+			<h2 class="section-marker">Biography</h2>
 			<div class="text-block">
 				<p>
 					Gopal Mahapatra brings over three and a half decades of rich and varied experience
@@ -43,7 +43,7 @@
 		</section>
 
 		<section class="section">
-			<span class="section-marker">Education</span>
+			<h2 class="section-marker">Education</h2>
 			<ul class="tight-list">
 				<li>
 					<strong>Fellow Programme in Management (Doctoral)</strong><br />
@@ -61,7 +61,7 @@
 		</section>
 
 		<section class="section">
-			<span class="section-marker">Recognition</span>
+			<h2 class="section-marker">Recognition</h2>
 			<ul class="dashed-list">
 				<li>President, National HRD Network, Bangalore</li>
 				<li>
