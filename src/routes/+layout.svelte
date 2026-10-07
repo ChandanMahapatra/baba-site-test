@@ -9,7 +9,7 @@
 	
 	<footer class="global-footer">
 		<div class="container">
-			<p>IIM Bangalore · Bannerghatta Road · Bengaluru, India</p>
+			<p>Bannerghatta Road · Bengaluru, India</p>
 			<p>© {new Date().getFullYear()} Gopal Mahapatra</p>
 		</div>
 	</footer>
