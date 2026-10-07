@@ -145,13 +145,6 @@
 			<span class="section-marker">Connect</span>
 			<div class="links">
 				<a href="mailto:gopal.mahapatra@iimb.ac.in">Email</a>
-				<a
-					href="https://www.iimb.ac.in/sites/default/files/2023-09/Prof.Gopal-Mahapatra-2023.pdf"
-					target="_blank">CV (PDF)</a
-				>
-				<a href="https://www.iimb.ac.in/user/162/gopal-mahapatra" target="_blank"
-					>IIMB Faculty Page</a
-				>
 				<a href="https://in.linkedin.com/in/prof-gopal-pr-mahapatra-9011961" target="_blank">LinkedIn</a>
 			</div>
 		</section>
