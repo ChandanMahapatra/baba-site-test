@@ -17,7 +17,7 @@
 		</header>
 
 		<section class="section">
-			<span class="section-marker">MBA & Executive MBA</span>
+			<h2 class="section-marker">MBA & Executive MBA</h2>
 			<ul class="tight-list">
 				<li>
 					<strong>Leadership in Digital Era</strong><br />
@@ -40,7 +40,7 @@
 		</section>
 
 		<section class="section">
-			<span class="section-marker">Leadership Development</span>
+			<h2 class="section-marker">Leadership Development</h2>
 			<ul class="dashed-list">
 				<li>Leadership Development for Senior Executives</li>
 				<li>Change Management & Organizational Transformation</li>
